@@ -12,8 +12,8 @@ set(CMAKE_CXX_STANDARD 11)
 
 # Create a sources variable with a link to all cpp files to compile
 set(SOURCES
-    src/log.cpp
-    test/test.cpp
+    log.cpp
+    test.cpp
 )
 
 # Add an executable with the above sources
